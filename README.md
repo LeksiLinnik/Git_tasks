@@ -1,3 +1,1 @@
-# automation_course
-
-some content
+# automation_course_git
